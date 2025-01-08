@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif")
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphacoder1107&label=Profile%20views&color=0e75b6&style=flat" alt="alphacoder1107" /> </p>
 

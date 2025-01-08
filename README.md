@@ -7,7 +7,21 @@
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphacoder1107" alt="alphacoder1107" width="872" height="109" /></a></p>
 <p align="left">&nbsp;</p>
 <p align="left"><a href="https://twitter.com/alphacoder1107" target="blank"><img src="https://img.shields.io/twitter/follow/alphacoder1107?logo=twitter&amp;style=for-the-badge" alt="alphacoder1107" /></a></p>
-<p>- 🔭 I&rsquo;m currently working on DTC Buss management softwrare [DTC-MANAGER](https://github.com/AlphaCoder1107/DTC-MANAGER.git) - 🌱 I&rsquo;m currently learning Web Development **Advance** - 👯 I&rsquo;m looking to collaborate on YT Chanle [Alphacoder1107](https://www.youtube.com/channel/UC4B8O7mbliAjqM4R_DkYXUg/) - 🤝 I&rsquo;m looking for help with [DTC-MANAGER](https://github.com/AlphaCoder1107/DTC-MANAGER.git) - 👨&zwj;💻 All of my projects are available at Github [https://github.com/AlphaCoder1107](https://github.com/AlphaCoder1107) - 📝 I regularly write articles on Thread [https://www.threads.net/@alphacoder1107](https://www.threads.net/@alphacoder1107) - 📫 How to reach me gmail **alphacoder1107@gmail.com** - 📄 Know about my experiences GitHub [https://github.com/AlphaCoder1107](https://github.com/AlphaCoder1107)</p>
+- 🔭 I’m currently working on DTC Buss management softwrare [DTC-MANAGER](https://github.com/AlphaCoder1107/DTC-MANAGER.git)
+
+- 🌱 I’m currently learning Web Development **Advance**
+
+- 👯 I’m looking to collaborate on YT Chanle [Alphacoder1107](https://www.youtube.com/channel/UC4B8O7mbliAjqM4R_DkYXUg/)
+
+- 🤝 I’m looking for help with [DTC-MANAGER](https://github.com/AlphaCoder1107/DTC-MANAGER.git)
+
+- 👨‍💻 All of my projects are available at Github [https://github.com/AlphaCoder1107](https://github.com/AlphaCoder1107)
+
+- 📝 I regularly write articles on Thread [https://www.threads.net/@alphacoder1107](https://www.threads.net/@alphacoder1107)
+
+- 📫 How to reach me gmail **alphacoder1107@gmail.com**
+
+- 📄 Know about my experiences GitHub [https://github.com/AlphaCoder1107](https://github.com/AlphaCoder1107)
 <h3 align="left">&nbsp;</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://twitter.com/alphacoder1107" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alphacoder1107" width="40" height="30" align="center" /></a> <a href="https://linkedin.com/in/ayushverma1107" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushverma1107" width="40" height="30" align="center" /></a> <a href="https://instagram.com/alphacoder1107" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alphacoder1107" width="40" height="30" align="center" /></a> <a href="https://www.youtube.com/c/@alphacoder1107" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alphacoder1107" width="40" height="30" align="center" /></a> <a href="https://www.leetcode.com/1dl9ai4yzi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1dl9ai4yzi" width="40" height="30" align="center" /></a> <a href="https://discord.gg/8PU37xte" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8PU37xte" width="40" height="30" align="center" /></a></p>

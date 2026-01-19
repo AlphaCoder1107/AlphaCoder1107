@@ -1,6 +1,6 @@
 <p>&nbsp;</p>
 <h1 align="center">Hi 👋, I'm Ayush verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 <p align="left">&nbsp;</p>
 <p align="left">&nbsp;</p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=alphacoder1107&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="alphacoder1107" /></p>
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on YT Chanle [Alphacoder1107](https://www.youtube.com/channel/UC4B8O7mbliAjqM4R_DkYXUg/)
 
-- 🤝 I’m looking for help with [DTC-MANAGER](https://github.com/AlphaCoder1107/DTC-MANAGER.git)
+- 🤝 I’m looking for help with [Vidya Innovation Website](https://github.com/AlphaCoder1107/VSIE)
 
 - 👨‍💻 All of my projects are available at Github [https://github.com/AlphaCoder1107](https://github.com/AlphaCoder1107)
 
